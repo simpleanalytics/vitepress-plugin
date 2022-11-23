@@ -10,7 +10,7 @@
 
 ## Install
 
-Just run this command to install Simple Analytics for Vue:
+Just run this command to install Simple Analytics for VitePress:
 
 ```bash
 npm install vitepress-plugin-simple-analytics
